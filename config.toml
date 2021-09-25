@@ -1,4 +1,4 @@
-baseURL = "https://yildab.github.io/"
+baseURL = "http://bookshelf.yilda.ca/"
 languageCode = "en-us"
 title = "Yilda's Bookshelf"
 theme = "cactus"
