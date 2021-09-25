@@ -1,0 +1,32 @@
+baseURL = "https://yildab.github.io/"
+languageCode = "en-us"
+title = "Yilda's Bookshelf"
+theme = "cactus"
+publishDir = "docs"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[params]
+description = "Hello! My name is Yilda (she/her) and I am an astroparticle physics graduate student at Queen's University. You have successfully found the part of my website where I list the novels I read."
+colortheme = "light"
+
+[[params.social]]
+name = "email"
+link = "https://www.queensu.ca/physics/yilda-boukhtouchen"
+
+[[params.social]]
+name = "linkedin"
+link = "https://ca.linkedin.com/in/yilda-boukhtouchen"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
