@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Yilda&#39;s Bookshelf</title>
+    <link>https://yildab.github.io/posts/</link>
+    <description>Recent content in Posts on Yilda&#39;s Bookshelf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 May 2021 15:20:46 -0400</lastBuildDate><atom:link href="https://yildab.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021: Year in Books (So Far)</title>
+      <link>https://yildab.github.io/posts/2021books/</link>
+      <pubDate>Wed, 26 May 2021 15:20:46 -0400</pubDate>
+      
+      <guid>https://yildab.github.io/posts/2021books/</guid>
+      <description>An ongoing list of novels I&amp;rsquo;ve read this year.
+  Crime and Punishment, Fyodor Dostoyevsky. ★ ★ ★ ★
+  The Poppy War, R.F. Kuang, The Poppy War #1. ★ ★ ★ ¼
+  The Fifth Season, N.K. Jemisin, The Broken Earth #1. ★ ★ ★ ★ ½
+  The Last Hero, Terry Pratchett, Discworld #27. ★ ★ ★
+  The Song of Achilles, Madeline Miller.</description>
+    </item>
+    
+    <item>
+      <title>2020: Year in Books</title>
+      <link>https://yildab.github.io/posts/2020books/</link>
+      <pubDate>Fri, 01 Jan 2021 15:05:15 -0400</pubDate>
+      
+      <guid>https://yildab.github.io/posts/2020books/</guid>
+      <description>Just a list of novels I read in 2020. It was a good year for discovering high fantasy series (or getting around to reading famous ones)!
+  Oathbringer, Brandon Sanderson, The Stormlight Archive #3. ★ ★ ★ ★ ½
+  The Lies of Locke Lamora, Scott Lynch, The Gentlemen Bastards #1. ★ ★ ★ ★ ★
+  Red Seas Under Red Skies, Scott Lynch, The Gentlemen Bastards #2.</description>
+    </item>
+    
+  </channel>
+</rss>
