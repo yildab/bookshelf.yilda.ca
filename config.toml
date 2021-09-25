@@ -1,4 +1,4 @@
-baseURL = "http://bookshelf.yilda.ca/"
+baseURL = "https://bookshelf.yilda.ca/"
 languageCode = "en-us"
 title = "Yilda's Bookshelf"
 theme = "cactus"
