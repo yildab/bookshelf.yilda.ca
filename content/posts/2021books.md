@@ -49,3 +49,7 @@ An ongoing list of novels I've read this year.
 21. **The Great Hunt**, Robert Jordan. ★ ★ ★ ★
 
 22. **The Dragon Reborn**, Robert Jordan. ★ ★ ★ ★ ¼
+
+23. **The Shadow Rising**, Robert Jordan. ★ ★ ★ ★ ¼
+
+24. **The Fires of Heaven**, Robert Jordan. ★ ★ ★ ★ ¼
