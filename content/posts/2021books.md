@@ -4,7 +4,7 @@ date: 2021-05-26T15:20:46-04:00
 draft: false
 ---
 
-An ongoing list of novels I've read in 2021.
+A list of novels I read in 2021.
 
 1. **Crime and Punishment**, Fyodor Dostoyevsky. ★ ★ ★ ★
 
